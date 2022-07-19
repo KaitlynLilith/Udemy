@@ -56,8 +56,6 @@ if (process.argv[2] === '--import') {
   deleteData();
 }
 
-// console.log(process.argv);
-
 // Put in Command Line
 // node .\dev-data\data\import-dev-data.js --delete
 // node .\dev-data\data\import-dev-data.js --import
